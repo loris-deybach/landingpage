@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css?family=Josefin+Sans|Lobster|Quicksand:300&display=swap");
+@import url("component/container.css");
+@import url("component/banner.css");
+@import url("component/card.css");
+body{
+	margin: 0px;
+}
+h1{
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 60px;
+	color: rgb(175,210,88);
+}
+.text{
+	font-family: 'Quicksand', sans-serif;
+	font-size: 18px;
+	color: rgb(5,5,5);
+}
+h2{
+	font-family: 'Lobster', cursive;
+	color: rgb(53,66,83);
+	font-size: 24px;
+}
+h3{
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 21px;
+	color: rgb(53,66,83);
+}
+p{
+	text-align: justify;
+}
